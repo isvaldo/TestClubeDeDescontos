@@ -1,0 +1,306 @@
+{
+  "rss": {
+    "-xmlns:ror": "http://rorweb.com/0.1/",
+    "-version": "2.0",
+    "channel": {
+      "title": "ROR Sitemap for http://www.clubededescontosoi.com.br/",
+      "link": "http://www.clubededescontosoi.com.br/",
+      "item": [
+        {
+          "link": "http://www.clubededescontosoi.com.br/",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "0",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/pagina/comofunciona",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/cadastro",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/contato",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/1",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/saraiva12",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/abril",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/marisae",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/parque3",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/netfarma",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/oficinahamburguer",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/encantoshair",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/saraiva31",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/search/MAGAZINE",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/search/WALMART",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/search/FAST",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/search/NETSHOES",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/search/SARAIVA",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/search/MARISA",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/search/DAFITI",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/1?utm_source=web&utm_medium=banner&utm_campaign=FotosMaio2015",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/login",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/pagina/faq",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/pagina/termos",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/search/COMPRA",
+          "title": "Clube de Descontos",
+          "description": "Cupons de desconto da Americanas.com, Netshoes, Walmart ,Bob’s, Saraiva, Fnac e muito mais direto em seu celular Oi.",
+          "ror:sortOrder": "1",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/magazineluiza8",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/magazine26",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/magazineluiza2",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/magazineluiza",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/magazineluiza1",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/magazine",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/magazine3",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/walmart12",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/fastshop",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/fastshop2",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/netshoes10",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/saraiva1",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/saraiva30",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/saraiva14",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/saraiva21",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/saraiva3",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        },
+        {
+          "link": "http://www.clubededescontosoi.com.br/compracerta",
+          "title": "Clube de Descontos",
+          "description": "Clube de Descontos",
+          "ror:sortOrder": "2",
+          "ror:resourceOf": "sitemap"
+        }
+      ]
+    }
+  }
+}
